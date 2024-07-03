@@ -1,0 +1,1 @@
+Yarım kalmış proje ihtiyacım olduğu zaman devamını getireceğim. Projenin amacı karelere belirli uzunluklar verdikten sonra çizerek alan hesaplaması yapılacaktı. Adobe programlarında kullandığımız karelerin alanını hesaplamak için yardımcı araç gibi düşünebilirsiniz. Şuanki sürümde herhangi bir alan hesaplama gibi durum yok ve bug'lar mevcut.
